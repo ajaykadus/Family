@@ -1,0 +1,26 @@
+{
+  "name": "Family",
+  "version": "1.0.0",
+  "description": "Private network for sharing things",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajaykadus/Family.git"
+  },
+  "keywords": [
+    "angular",
+    "hapijs",
+    "bower",
+    "npm",
+    "grunt"
+  ],
+  "author": "Ajay Kadus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaykadus/Family/issues"
+  },
+  "homepage": "https://github.com/ajaykadus/Family"
+}
